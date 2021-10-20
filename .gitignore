@@ -1,0 +1,4 @@
+# Ignore robot execution artifacts
+log*.html
+output*.html
+output*.xml
